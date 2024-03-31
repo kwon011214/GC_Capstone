@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Content
 Content/*
+
+# Include blueprint
+!Content/Blueprints
